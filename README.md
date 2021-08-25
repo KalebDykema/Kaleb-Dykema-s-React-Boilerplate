@@ -1,4 +1,4 @@
-# My React Boilerplate
+# Kaleb Dykema's React Boilerplate
 
 This is a React boilerplate I configured to quickly create a project that uses React, Typescript, and SASS. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
